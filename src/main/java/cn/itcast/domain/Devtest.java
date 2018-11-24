@@ -6,5 +6,7 @@ public class Devtest {
 
         System.out.println("这是一个分支dev");
         System.out.println("更新");
+
+        System.out.println("新增");
     }
 }
