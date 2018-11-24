@@ -5,5 +5,7 @@ public class Devtest {
     public static void main(String[] args) {
 
         System.out.println("这是一个分支dev");
+
+        System.out.println("分支新增");
     }
 }
